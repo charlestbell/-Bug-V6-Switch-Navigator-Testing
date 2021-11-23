@@ -6,7 +6,6 @@ import {
 } from 'react-native';
 import {useDispatch} from 'react-redux'
 
-import * as authActions from '../store/actions/auth-actions';
 
 
 
